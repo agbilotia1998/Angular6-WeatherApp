@@ -1,0 +1,49 @@
+.weather {
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  color: white;
+  padding-bottom: 2%;
+}
+
+.w3-card-4, .w3-hover-shadow:hover {
+  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+.w3-blue, .w3-hover-blue:hover {
+  color: #fff !important;
+  background-color: #2196F3 !important;
+}
+
+.w3-container, .w3-panel {
+  padding: 0.01em 16px;
+}
+
+.weather-img {
+  width: 25%;
+}
+
+.heading {
+  text-align: center;
+}
+
+.weather-text {
+  color: white;
+  opacity: 0.75;
+  text-align: center;
+  font-size: 25px;
+}
+
+.city {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+.content {
+  padding-bottom: 5px;
+}

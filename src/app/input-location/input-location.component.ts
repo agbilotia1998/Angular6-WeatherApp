@@ -22,7 +22,7 @@ export class InputLocationComponent implements OnInit {
     this.router.navigate(['/app/weather'], {
       queryParams: { lat: address.geometry.location.lat(), lon: address.geometry.location.lng()},
       relativeTo: this.activatedRoute
-    });
-    console.log(address.geometry.location.lat(), address.geometry.location.lng());
+    }).catch(e => console.log(e))
+    // console.log(address.geometry.location.lat(), address.geometry.location.lng());
   }
 }

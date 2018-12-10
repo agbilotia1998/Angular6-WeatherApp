@@ -1,3 +1,28 @@
-<p>
-  weather-data works!
-</p>
+<div class="city">
+  {{weatherData.cityName | uppercase}}
+</div>
+<div>
+  <div>
+    <div class="weather w3-card-4">
+      <header class="w3-container w3-blue heading">
+        <p class="weather-text"> Today </p>
+      </header>
+      <img src={{weatherData.image}} class="w3-container weather-img" alt="Img">
+      <footer class="w3-container weather-text">
+        <div class="content">
+          {{weatherData.description | uppercase}}
+        </div>
+        <div class="content">
+          Current  Temperature : {{weatherData.temperature}}
+          <br>
+          Minimum Temperature : {{weatherData.min_temp}}
+          <br>
+          Maximum Temperature : {{weatherData.max_temp}}
+        </div>
+        <div>
+          Humidity : {{weatherData.humidity}}
+        </div>
+      </footer>
+    </div>
+  </div>
+</div>
