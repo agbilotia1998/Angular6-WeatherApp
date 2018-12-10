@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "Angular6-WeatherApp/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "Angular6-WeatherApp/bg-image.0b12fb32e7d2de37dcc6.png",
-        "Angular6-WeatherApp/favicon.ico",
-        "Angular6-WeatherApp/index.html",
-        "Angular6-WeatherApp/main.61dd2d9bc84a6497441d.js",
-        "Angular6-WeatherApp/polyfills.20ab2d163684112c2aba.js",
-        "Angular6-WeatherApp/runtime.ec2944dd8b20ec099bf3.js",
-        "Angular6-WeatherApp/styles.b63d6ec68bfd1af99726.css"
+        "/bg-image.0b12fb32e7d2de37dcc6.png",
+        "/favicon.ico",
+        "/index.html",
+        "/main.61dd2d9bc84a6497441d.js",
+        "/polyfills.20ab2d163684112c2aba.js",
+        "/runtime.ec2944dd8b20ec099bf3.js",
+        "/styles.b63d6ec68bfd1af99726.css"
       ],
       "patterns": []
     },
@@ -22,37 +22,37 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "Angular6-WeatherApp/assets/bg-image.png",
-        "Angular6-WeatherApp/assets/icons/icon-128x128.png",
-        "Angular6-WeatherApp/assets/icons/icon-144x144.png",
-        "Angular6-WeatherApp/assets/icons/icon-152x152.png",
-        "Angular6-WeatherApp/assets/icons/icon-192x192.png",
-        "Angular6-WeatherApp/assets/icons/icon-384x384.png",
-        "Angular6-WeatherApp/assets/icons/icon-512x512.png",
-        "Angular6-WeatherApp/assets/icons/icon-72x72.png",
-        "Angular6-WeatherApp/assets/icons/icon-96x96.png"
+        "/assets/bg-image.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "Angular6-WeatherApp/assets/bg-image.png": "e17e460d7bbd520a157eb2f1dae0ae69ecc5c8f8",
-    "Angular6-WeatherApp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "Angular6-WeatherApp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "Angular6-WeatherApp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "Angular6-WeatherApp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "Angular6-WeatherApp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "Angular6-WeatherApp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "Angular6-WeatherApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "Angular6-WeatherApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "Angular6-WeatherApp/bg-image.0b12fb32e7d2de37dcc6.png": "e17e460d7bbd520a157eb2f1dae0ae69ecc5c8f8",
-    "Angular6-WeatherApp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "Angular6-WeatherApp/index.html": "063646863c3e699d278012f26bba213e97b40454",
-    "Angular6-WeatherApp/main.61dd2d9bc84a6497441d.js": "057353d8d98f46248e1ab949f826cf257d74bc4e",
-    "Angular6-WeatherApp/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "Angular6-WeatherApp/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "Angular6-WeatherApp/styles.b63d6ec68bfd1af99726.css": "5ff853e96a02bf0050bd9c68e7c349a9d6842edd"
+    "/assets/bg-image.png": "e17e460d7bbd520a157eb2f1dae0ae69ecc5c8f8",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/bg-image.0b12fb32e7d2de37dcc6.png": "e17e460d7bbd520a157eb2f1dae0ae69ecc5c8f8",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "aab6813d4ba71206dc96f1646cd21f1450d9922a",
+    "/main.61dd2d9bc84a6497441d.js": "057353d8d98f46248e1ab949f826cf257d74bc4e",
+    "/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.b63d6ec68bfd1af99726.css": "5ff853e96a02bf0050bd9c68e7c349a9d6842edd"
   },
   "navigationUrls": [
     {
