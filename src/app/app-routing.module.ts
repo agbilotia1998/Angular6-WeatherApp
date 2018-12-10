@@ -5,7 +5,7 @@ import { WeatherDataComponent } from "./weather-data/weather-data.component";
 import { AppComponent } from "./app.component";
 
 const routes: Routes = [
-  { path: 'app/weather', component: WeatherDataComponent }
+  { path: 'weather', component: WeatherDataComponent }
   ];
 
 @NgModule({

@@ -19,7 +19,7 @@ export class InputLocationComponent implements OnInit {
   }
 
   handleAddressChange(address: Address): void {
-    this.router.navigate(['/app/weather'], {
+    this.router.navigate(['/weather'], {
       queryParams: { lat: address.geometry.location.lat(), lon: address.geometry.location.lng()},
       relativeTo: this.activatedRoute
     }).catch(e => console.log(e))
